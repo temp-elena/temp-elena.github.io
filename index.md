@@ -1,3 +1,5 @@
+This is my index
+
 # Main page
 ## not sure how
 
