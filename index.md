@@ -1,4 +1,3 @@
-title:Homepage
 
 This is my index
 
