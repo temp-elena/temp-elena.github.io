@@ -366,8 +366,9 @@ $contentFadeinAT: 0.5s;
         &:before {
           transition-delay: 0.1s * $i;
 /*           background-image: url("pictures/second-#{$i + 3}.png"); */
-          background-image: url("https://temp-elena.github.io/pictures/second-1.png");
+/*           background-image: url("https://temp-elena.github.io/pictures/second-1.png"); */
 /*             url("pictures/second-#{$i + 3}.png"); */
+              background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-#{$i + 3}.jpg");
         }
       }
     }
